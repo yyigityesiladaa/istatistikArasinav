@@ -111,7 +111,7 @@ public class Main {
         System.out.println("Sınıf Üst Sınırları: \n");
 
         for (int i = 0; i < sınıfUstSınırları.length; i++){
-            System.out.println((i+1) + ". Sınıf Alt Limiti = " + (ustLimitler[i] - deger));
+            System.out.println((i+1) + ". Sınıf Alt Limiti = " + (ustLimitler[i] + deger));
         }
 
 
