@@ -7,8 +7,7 @@ public class Main {
 
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-ÖNEMLİ NOT --> Sayı Sıralaması Aşağıdaki Şekle Göre Ayarlanmıştır. Değerlerinizi Bu Sıralamaya Göre Giriniz!!!
-               Aksi Takdirde Sonuçlar Yanlış Çıkacaktır!!!
+ÖNEMLİ NOT --> Sayı Sıralaması Aşağıdaki Şekle Göre Ayarlanmıştır. 
 
 1       6       11      16      21      25      29      33      37
 2       7       12      17      22      26      30      34      38
