@@ -37,7 +37,7 @@ public class Main {
 
 
         for(int i = 0; i < sayilar.length; i++){
-            yeniSayilar[i] = sayilar[i] + 0.52;
+            yeniSayilar[i] = sayilar[i] + eklenecekDeger;
         }
 
         for(int i = 0; i < yeniSayilar.length; i++){
@@ -103,7 +103,7 @@ public class Main {
         System.out.println("Sınıf Alt Sınırları: \n");
 
         for (int i = 0; i < sınıfAltSınırları.length; i++){
-            System.out.println((i+1) + ". Sınıf Alt Limiti = " + (altLimitler[i] - deger));
+            System.out.println((i+1) + ". Sınıf Alt Sınırı = " + (altLimitler[i] - deger));
         }
 
         System.out.println("\n***************************\n");
@@ -111,7 +111,7 @@ public class Main {
         System.out.println("Sınıf Üst Sınırları: \n");
 
         for (int i = 0; i < sınıfUstSınırları.length; i++){
-            System.out.println((i+1) + ". Sınıf Alt Limiti = " + (ustLimitler[i] + deger));
+            System.out.println((i+1) + ". Sınıf Üst Sınırı = " + (ustLimitler[i] + deger));
         }
 
 
